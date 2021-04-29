@@ -1,5 +1,8 @@
 ---
 title: 'Protokoll AG Verkehr 20210428'
+taxonomy:
+    category:
+        - Protokoll
 ---
 
 # Treffen AG Verkehr – 28 .0 4.
