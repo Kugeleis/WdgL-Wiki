@@ -1,12 +1,12 @@
 ---
-title: Basics
+title: Allgemeines
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+### Allgemeines
 
-# Basics
+# Geschichte
 
 Discover the **basic** principles
