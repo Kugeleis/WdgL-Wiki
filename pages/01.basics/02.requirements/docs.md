@@ -1,7 +1,8 @@
 ---
-title: Requirements
+title: 'Ein Thema'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
