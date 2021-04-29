@@ -1,7 +1,8 @@
 ---
-title: 'Embedded Presentation'
+title: 'Eingebettete Presentation'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Example Embedded Presentation  
