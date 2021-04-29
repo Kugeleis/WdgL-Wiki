@@ -3,6 +3,7 @@ title: 'Protokoll AG Verkehr 20210428'
 taxonomy:
     category:
         - Protokoll
+dateformat: 'd-m-Y H:i'
 ---
 
 # Treffen AG Verkehr – 28 .0 4.
