@@ -1,7 +1,8 @@
 ---
-title: 'Topic 2'
+title: 'Thema 2'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 Lorem *markdownum saxum et* telum revellere in victus vultus cogamque ut quoque
