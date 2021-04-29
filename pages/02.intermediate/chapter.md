@@ -5,8 +5,5 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
+# was haben wir gemacht
 
-# Intermediate
-
-Delve deeper into more **complex** topics
