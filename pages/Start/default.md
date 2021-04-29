@@ -7,4 +7,3 @@ taxonomy:
 ---
 
 ## was haben wir gelernt
-[]()
