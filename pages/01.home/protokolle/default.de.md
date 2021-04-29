@@ -1,4 +1,5 @@
 ---
 title: Protokolle
+published: true
 ---
 
