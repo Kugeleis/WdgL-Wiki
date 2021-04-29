@@ -9,4 +9,4 @@ child_type: docs
 
 # Geschichte
 
-Discover the **basic** principles
+wie alles anfing
