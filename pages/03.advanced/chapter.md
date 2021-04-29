@@ -1,12 +1,10 @@
 ---
-title: Advanced
+title: 'AG Aktion'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 3
-
-# Advanced
+# and action!
 
 Get into the **nitty gritty** with these advanced topics
