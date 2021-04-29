@@ -1,9 +1,11 @@
 ---
-title: Topic 1
+title: 'Thema 1'
 taxonomy:
-    category: docs
+    category:
+        - docs
 process:
-	twig: true
+    markdown: true
+    twig: true
 ---
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
